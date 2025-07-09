@@ -1,5 +1,4 @@
 ffmpeg-python
-opencv-python
 face_alignment
 scikit-learn
 pydub
@@ -9,8 +8,14 @@ pysptk
 pyworld
 resemblyzer
 numpy
-opencv-python
+opencv-python==4.5.3.56
 torch==1.8.1
 torchvision==0.9.1
 torchaudio==0.8.1
-piptensorboardX
+tensorboardX
+scikit-learn
+pydub
+resemblyzer
+pysptk
+matplotlib
+mutagen
